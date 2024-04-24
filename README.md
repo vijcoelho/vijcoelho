@@ -1,8 +1,8 @@
 ### Hi, I'm Vitor! I'm passionate about programming and aspire to become a back-end developer. Currently honing my skills in Java, I aim to master it while also delving into other programming languages to further my career. Continuous learning and growth are my key drivers as I navigate the path towards becoming a proficient developer. 👋
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorjosecoelho&show_icons=true&theme=radical)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vijcoelho&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjosecoelho&layout=donut-vertical)](https://github.com/vitorjosecoelho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijcoelho&layout=donut-vertical)](https://github.com/vitorjosecoelho/github-readme-stats)
 
 ### The technologies I use in my daily life.
 
