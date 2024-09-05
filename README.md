@@ -1,15 +1,17 @@
-### Hi, I'm Vitor! I'm passionate about programming and aspire to become a back-end developer. Currently honing my skills in Java, I aim to master it while also delving into other programming languages to further my career. Continuous learning and growth are my key drivers as I navigate the path towards becoming a proficient developer. 👋
+### Hi, I'm Vitor! 👋
 
-<h1 align="center">Hi <img src="https://github.com/vijcoelho/vijcoelho/blob/main/icons/Hi.gif" width="28px"/>, I'm Vitor</h1>
+I'm passionate about programming and aspire to become a back-end developer. Currently honing my skills in Java, I aim to master it while also delving into other programming languages to further my career. Continuous learning and growth are my key drivers as I navigate the path towards becoming a proficient developer.
+
+<h1 align="center">Hi <img src="https://github.com/vijcoelho/vijcoelho/blob/main/icons/Hi.gif" width="28px"/> I'm Vitor</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=vijcoelho&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-   Back-end Developer
+  Back-end Developer
   <a href="https://github.com/vijcoelho/springboot-mobile">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
 <details>
@@ -21,6 +23,7 @@
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/vijcoelho/vijcoelho/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)  
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -28,8 +31,7 @@
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/vijcoelho/vijcoelho/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
-
-  <a href="https://github.com/vijcoelho/springboot-mobile">[SpringBoot]</a>
+  <a href="https://github.com/vijcoelho/springboot-mobile">SpringBoot</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
   - Implemented features with Java and Spring Boot.
 </details>
