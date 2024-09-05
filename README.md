@@ -25,20 +25,20 @@
 <br>
 <p align="left">Quanto tempo codei nesse ano 🤔</p>
 <br>
-<a align="center" href="https://info.vijcoelho/api/wakatime?username=vijcoelho&layout=compact&theme=radical&locale=pt-br"><img align="center" src="https://info.vijcoelho.dev/api/wakatime?username=vijcoelho&layout=compact&theme=radical&locale=pt-br" />
+<a align="center" href="https://info.vijcoelho/api/wakatime?username=vijcoelho&layout=compact&theme=radical&locale=pt-br"><img align="center" src="https://vijcoelho.dev/api/wakatime?username=vijcoelho&layout=compact&theme=radical&locale=pt-br" />
 </a>
 
 <br>
 <p align="left">Estatísticas do GitHub 🤩</p>
 <br>
 
-<a align="center" href="https://info.vijcoelho/api?username=vijcoelho&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical"><img height=300 align="center" src="https://info.vijcoelho/api?username=vijcoelho&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&locale=pt-br" />
+<a align="center" href="https://github-readme-stats.vercel.app/api?username=vijcoelho&theme=ambient_gradient&show_icons=true"><img height=300 align="center" src="https://vijcoelho/api?username=vijcoelho&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&locale=pt-br" />
 </a>
 
 <br>
 <p align="left">Top 6 linguagens mais usadas 😁</p>
 <br>
-<a align="center" href="https://info.vijcoelho/api/top-langs/?username=vijcoelho&locale=pt-br&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical"><img align="center" height=300  src="https://info.vijcoelho/api/top-langs/?username=vijcoelho&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical&locale=pt-br" alt="vijcoelho's github stats" />
+<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vijcoelho&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact"><img align="center" height=300  src="https://info.vijcoelho/api/top-langs/?username=vijcoelho&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical&locale=pt-br" alt="vijcoelho's github stats" />
 </a>
 <br>
 <a href="https://www.buymeacoffee.com/vijcoelho" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
