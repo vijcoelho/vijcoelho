@@ -1,5 +1,5 @@
 <h2> System.out.println(Hello World!)</h2>
-<img align="center" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeneguite.com%2F2017%2F10%2F01%2Fgolang-desbravando-uma-linguagem-de-programacao-parte-1%2F&psig=AOvVaw08LVQD4SJXL0Ea_QoNlqHh&ust=1725666090806000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC-79X8rIgDFQAAAAAdAAAAABAI" width="400"/>
+<img align="center" alt="GIF" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijcoelho&label=Profile%20views&color=0e75b6&style=flat" alt="vijcoelho" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/8dfbe3da-d84d-4ba9-83b3-86d819141416.svg)](https://wakatime.com/@8dfbe3da-d84d-4ba9-83b3-86d819141416)
