@@ -1,12 +1,12 @@
-<h2> Hello World!</h2>
-<img align="center" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="400"/>
+<h2> System.out.println(Hello World!)</h2>
+<img align="center" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeneguite.com%2F2017%2F10%2F01%2Fgolang-desbravando-uma-linguagem-de-programacao-parte-1%2F&psig=AOvVaw08LVQD4SJXL0Ea_QoNlqHh&ust=1725666090806000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC-79X8rIgDFQAAAAAdAAAAABAI" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijcoelho&label=Profile%20views&color=0e75b6&style=flat" alt="vijcoelho" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/8dfbe3da-d84d-4ba9-83b3-86d819141416.svg)](https://wakatime.com/@8dfbe3da-d84d-4ba9-83b3-86d819141416)
 
 <h3>  💻 Quem sou eu: </h3>
 
-- &nbsp; Me chamo Vitor, mas pode me chamar de Vij;
+- &nbsp; Me chamo Vitor;
 - 🔭 &nbsp; Atualmente estou mergulhado no universo de Java e seus Frameworks, com um foco especial em Spring Boot;
 - 🎓 &nbsp; Sou apaixonado por tecnologia e estou cursando Desenvolvimento de Sistemas no COTUCA - Colégio Técnico de Campinas da Unicamp;
 - :computer: &nbsp; Adoro participar de eventos tecnológicos para fazer networking e explorar mais sobre esse vasto mundo da tecnologia;
