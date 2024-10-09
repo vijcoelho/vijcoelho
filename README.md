@@ -13,7 +13,7 @@
 
 <h3>⚛️ &nbsp; Competências Técnicas: </h3>
 
-- 💻 Java | Python | JavaScript | GoLang | Node.js | HTML | CSS<br>
+- 💻 Java | Python | JavaScript | GoLang | Node.js | HTML | C# | C++ | CSS<br>
 - 🌐 Spring MVC | Spring Boot | Spring Security<br>
 - 📦 Docker | Maven<br>
 - 🌿 Hibernate | JPA | JBDC | SQL | MySQL<br>
