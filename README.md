@@ -2,8 +2,6 @@
 <img align="center" alt="GIF" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijcoelho&label=Profile%20views&color=0e75b6&style=flat" alt="vijcoelho" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/8dfbe3da-d84d-4ba9-83b3-86d819141416.svg)](https://wakatime.com/@8dfbe3da-d84d-4ba9-83b3-86d819141416)
-
 <h3> 💻 Quem sou eu: </h3>
 
 - &nbsp; Me chamo Vitor;
