@@ -25,7 +25,7 @@
 <p align="left">Estatísticas do GitHub 🤩</p>
 <br>
 
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=vijcoelho&theme=ambient_gradient&show_icons=true"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=vijcoelho&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&locale=pt-br" /></a>
+<a align="center" href="https://github-readme-stats.vercel.app/api?username=vijcoelho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=vijcoelho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /></a>
 
 <br>
 <p align="left">Top 6 linguagens mais usadas 😁</p>
