@@ -30,7 +30,7 @@
 <br>
 <p align="left">Top 6 linguagens mais usadas 😁</p>
 <br>
-<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vijcoelho&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact"><img align="center" height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijcoelho&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="vijcoelho's github stats" /></a>
+<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vijcoelho&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"><img align="center" height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijcoelho&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="vijcoelho's github stats" /></a>
 
 <br>
 <h2> 🌐 Quer me conhecer melhor, contem comigo: </h2>
