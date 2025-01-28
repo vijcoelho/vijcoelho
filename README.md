@@ -1,5 +1,5 @@
 <h2> System.out.println(Hello World!)</h2>
-<img align="center" alt="GIF" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" width="400"/>
+<img align="center" alt="GIF" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijcoelho&label=Profile%20views&color=0e75b6&style=flat" alt="vijcoelho" /> </p>
 
 <h3> 💻 Quem sou eu: </h3>
