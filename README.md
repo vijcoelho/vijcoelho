@@ -3,7 +3,7 @@ Hi, I'm Vitor! I'm a passionate software developer focused on back-end developme
 I enjoy working on projects, solving problems, and exploring new tools and frameworks. I'm always looking for opportunities to grow, learn, and connect with other developers. Let's build something amazing together! 🚀
 
 ##
-![GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgomycode.com%2Feg%2Fhow-to-become-a-software-developer%2F&psig=AOvVaw1J80QzeKV_ARoMZP0XEJ-j&ust=1738275169460000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODJx5v5m4sDFQAAAAAdAAAAABAE)
+![GIF](https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-coelho-203115273/) 
