@@ -2,6 +2,8 @@
 Hi, I'm Vitor! I'm a passionate software developer focused on back-end development. I love learning new technologies and improving my coding skills. Currently, I'm studying Computer Science at Descomplica. My main programming language is Java, and I work with Spring Boot and other back-end technologies. I also have experience with Python, Go, C++, C#, and JavaScript.
 I enjoy working on projects, solving problems, and exploring new tools and frameworks. I'm always looking for opportunities to grow, learn, and connect with other developers. Let's build something amazing together! 🚀
 
+##
+![GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgomycode.com%2Feg%2Fhow-to-become-a-software-developer%2F&psig=AOvVaw1J80QzeKV_ARoMZP0XEJ-j&ust=1738275169460000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODJx5v5m4sDFQAAAAAdAAAAABAE)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-coelho-203115273/) 
@@ -25,5 +27,4 @@ I enjoy working on projects, solving problems, and exploring new tools and frame
 ---
 [![](https://visitcount.itsvg.in/api?id=vijcoelho&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/vijcoelho/vijcoelho/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
