@@ -25,4 +25,5 @@ I enjoy working on projects, solving problems, and exploring new tools and frame
 ---
 [![](https://visitcount.itsvg.in/api?id=vijcoelho&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/vijcoelho/vijcoelho/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
